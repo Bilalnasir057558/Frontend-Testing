@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "chai": "^4.5.0",
     "jest": "^30.3.0"
   },
   "scripts": {
